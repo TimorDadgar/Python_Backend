@@ -1,3 +1,5 @@
 *_venv
 *pycache*
+db.sqlite3
 commands.txt
+
